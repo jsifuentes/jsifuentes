@@ -7,7 +7,7 @@ I'm a self-taught software dev in Atlanta. I love doing security research
 
 ## Magento Modules
 - [Login with Google in admin](https://github.com/jsifuentes/module-backend-google-sso)
-- [Surpress out of date DB message](https://github.com/jsifuentes/module-suppress-out-of-date-db)
+- [Suppress out of date DB message](https://github.com/jsifuentes/module-suppress-out-of-date-db)
 - [Upgradable content](https://github.com/jsifuentes/module-upgradable-content)
 
 ## Publications
