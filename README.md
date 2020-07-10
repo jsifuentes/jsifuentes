@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm a self-taught software dev in Atlanta. I love doing security research 
+I'm a self-taught software dev in Atlanta. I love doing security research in my free time.
 
 - 📍 Lead Developer at FortyFour
 - 📫 Reach me at jacob@sifuen.com / [sifuen.com](https://sifuen.com/)
