@@ -2,7 +2,7 @@
 
 I'm a self-taught software dev in Atlanta. I love doing security research in my free time.
 
-- 📍 Lead Developer at FortyFour
+- 📍 Principal Architect at Bounteous
 - 📫 Reach me at jacob@sifuen.com / [sifuen.com](https://sifuen.com/)
 
 ## Magento Modules
