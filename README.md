@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm a self-taught software dev in Atlanta. I love doing security research in my free time.
+I'm a self-taught software dev that loves doing security research in my free time.
 
 - 📫 Reach me at jacob@sifuen.com / [sifuen.com](https://sifuen.com/)
 
